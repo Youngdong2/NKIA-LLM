@@ -12,4 +12,4 @@
 2. 문서는 계층적 구조의 특징을 갖기 때문에 제목, 소제목을 기준으로 부모 문서를 정의하고, 검색된 문서의 부모 문서까지 프롬프트로 사용.
 3. 표는 마크다운으로 변환한다.
 
-<img width="807" alt="Screenshot 2024-06-23 at 3 12 51 PM" src="https://github.com/Youngdong2/NKIA-LLM/assets/48584373/abc405a8-4ea9-4f7a-ac85-7759382574d2">
+<img width="700" alt="Screenshot 2024-06-23 at 3 12 51 PM" src="https://github.com/Youngdong2/NKIA-LLM/assets/48584373/abc405a8-4ea9-4f7a-ac85-7759382574d2">
