@@ -19,3 +19,4 @@
 ### 문제정의
 1. 자사 제품의 데이터 조회를 하기 위해서는 제품의 DB인 MongoDB의 query문을 생성하는 LLM이 필요하다.
   - 예를 들어 사용자가 "CPU사용률이 가장 높았던 서버 알려줘"라는 질문에 대응하기 위해서 DB 조회가 필요함.
+<img width="1894" alt="스크린샷 2024-06-24 오후 9 04 01" src="https://github.com/Youngdong2/NKIA-LLM/assets/48584373/6fda7c4f-5243-482f-95d5-3b5cc74d6a67">
