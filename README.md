@@ -1,4 +1,11 @@
-# NKIA-LLM
+# NKIA-LLM(LucidaAI)
+* 사용 모델 : gemma2-9B-instruct(2024-07 기준)
+* 문제 정의
+  * NKIA는 IT Operation 모니터링 솔루션을 제공.
+  * 모니터링 제품에 LLM 탑재 필요성 대두.
+  * 제품에 탑재되는 LLM은 무엇을 할 수 있을까 고민.
+
+* 
 
 ## 1. Manual RAG
 
